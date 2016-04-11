@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/LUMBINI 8/Desktop/aws file upload example/iu7_fd7_AmazonS3/JSP_AmazonS3_Demo/web/WEB-INF/lib/mail-1.4.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
