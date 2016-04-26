@@ -1,7 +1,7 @@
 package com.yash.common;
 
 // File Name SendEmail.java
-
+//saurabh 12:27 26-April2016
 import java.util.Properties;
 
 import javax.mail.Message;
