@@ -21,7 +21,7 @@ public class Test {
   String password = "weblogic"; // user password
 
   String fromAddress = "weblogic@localhost"; // newlycreateduser@localhost
-  String toAddress = "nanda.yash1988@gmail.com"+","+"kamalesh2005@gmail.com";
+  String toAddress = "nanda.yash1988@gmail.com"+","+"saurabhlpu07@gmail.com";
 
   // Create a mail session
   Properties properties = new Properties();
